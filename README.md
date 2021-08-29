@@ -17,6 +17,7 @@ I designed this exercise tracker to practice implementing a Full-Stack MERN app.
 * Javascript, Node.js
 * Express
 * MongoDB
+* CSS
 
 ## Setup
 The front and back end are separated into two files (exercise-ui and exercise-rest). For each, navigate to the root directory, `run npm` install and `npm start`.
